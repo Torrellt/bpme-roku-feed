@@ -1,0 +1,50 @@
+{
+  "providerName": "98.3 BPME – The Sound",
+  "language": "en-US",
+  "lastUpdated": "2026-01-02T00:00:00Z",
+  "items": [
+    {
+      "id": "bpme-live-radio",
+      "type": "audio",
+      "title": "98.3 BPME – The Sound (Live)",
+      "shortDescription": "Listen live to 98.3 BPME – The Sound. Gospel, inspiration, interviews, and community voices.",
+      "content": {
+        "duration": 0,
+        "streams": [
+          {
+            "url": "https://streaming.live365.com/a36558",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bpme-interview-1",
+      "type": "video",
+      "title": "98.3 BPME Interview",
+      "shortDescription": "Exclusive interview on 98.3 BPME – The Sound.",
+      "content": {
+        "streams": [
+          {
+            "url": "https://www.youtube.com/watch?v=dUJaSpg25yE",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bpme-interview-2",
+      "type": "video",
+      "title": "98.3 BPME Interview",
+      "shortDescription": "Exclusive interview on 98.3 BPME – The Sound.",
+      "content": {
+        "streams": [
+          {
+            "url": "https://www.youtube.com/watch?v=A4U6g6bO9dE",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ]
+}
